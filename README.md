@@ -1,6 +1,6 @@
 # Robotics & IoT
-## Control Light Blubs 💡
-Control Light Blubs using Raspberry Pi, Node.JS and Johnny-Five. This demo originally presented at the Robotics &amp; IoT Workshop.
+## Control Light Bulbs 💡
+Control Light Bulbs using Raspberry Pi, Node.JS and Johnny-Five. This demo originally presented at the Robotics &amp; IoT Workshop.
 
 ### Follow these steps to run the project
 
@@ -16,7 +16,7 @@ Control Light Blubs using Raspberry Pi, Node.JS and Johnny-Five. This demo origi
 
     `cd <path to your directory>`
     e.g
-    `cd /home/pi/Desktop/Robotics-IoT-Light-Blubs`
+    `cd /home/pi/Desktop/Robotics-IoT-Light-Bulbs`
 
 
 4) Install the required packages mentioned in `package.json` file using the command:

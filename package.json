@@ -1,7 +1,7 @@
 {
-  "name": "control-light-blubs",
+  "name": "control-light-bulbs",
   "version": "1.0.0",
-  "description": "Control Light Blubs using Raspberry Pi. Demo originally presented at the Robotics & IoT Workshop",
+  "description": "Control Light Bulbs using Raspberry Pi. Demo originally presented at the Robotics & IoT Workshop",
   "main": "bulbs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SkyImpel/Robotics-IoT-Light-Blubs.git"
+    "url": "git+https://github.com/SkyImpel/Robotics-IoT-Light-Bulbs.git"
   },
   "bugs": {
-    "url": "https://github.com/SkyImpel/Robotics-IoT-Light-Blubs/issues"
+    "url": "https://github.com/SkyImpel/Robotics-IoT-Light-Bulbs/issues"
   },
-  "homepage": "https://github.com/SkyImpel/Robotics-IoT-Light-Blubs#readme"
+  "homepage": "https://github.com/SkyImpel/Robotics-IoT-Light-Bulbs#readme"
 }
