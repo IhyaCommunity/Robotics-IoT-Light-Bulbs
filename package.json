@@ -1,7 +1,7 @@
 {
   "name": "control-light-blubs",
   "version": "1.0.0",
-  "description": "Control Light Blubs using Raspberry Pi, Node.JS and Johnny-Five. Demo originally presented at the Robotics & IoT Workshop",
+  "description": "Control Light Blubs using Raspberry Pi. Demo originally presented at the Robotics & IoT Workshop",
   "main": "bulbs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
