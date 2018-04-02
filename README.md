@@ -1,5 +1,5 @@
 # Robotics & IoT
-## Control Light Blubs
+## Control Light Blubs 💡
 Control Light Blubs using Raspberry Pi, Node.JS and Johnny-Five. This demo originally presented at the Robotics &amp; IoT Workshop.
 
 ### Follow these steps to run the project
@@ -16,7 +16,7 @@ Control Light Blubs using Raspberry Pi, Node.JS and Johnny-Five. This demo origi
 
     `cd <path to your directory>`
     e.g
-    `cd /home/pi/Desktop/Robotics-IoT-Blink-LED`
+    `cd /home/pi/Desktop/Robotics-IoT-Light-Blubs`
 
 
 4) Install the required packages mentioned in `package.json` file using the command:
@@ -71,32 +71,11 @@ A Node.JS based Robotics and IoT framework.
 [http://johnny-five.io/](http://johnny-five.io/)
 
 
-**Motion**
-
-A Linux package used for video streaming and motion detection.
-
-[https://motion-project.github.io/](https://motion-project.github.io/)
-
-
 **Socket.Js**
 
 A library used for asynchronous, two-way and real-time communication between client and server.
 
 [https://socket.io/](https://socket.io/)
-
-
-**L298 Motor Driver Shield**
-
- A motor driver kit containing 2 H-bridges for controlling direction of two motors.
-
-[http://hallroad.org/product/l298-h-bridge-module-motor-driver-module-in-pakistan/](http://hallroad.org/product/l298-h-bridge-module-motor-driver-module-in-pakistan/)
-
-[https://www.bananarobotics.com/shop/How-to-use-the-L298N-Dual-H-Bridge-Motor-Driver](https://www.bananarobotics.com/shop/How-to-use-the-L298N-Dual-H-Bridge-Motor-Driver)
-
-
-**Car Chasis and Tyres + Motors**
-
-[https://hallroad.org/product/2wd-smart-robot-car-chassis-kit/](https://hallroad.org/product/2wd-smart-robot-car-chassis-kit/)
 
 
 **Four Channel Relay Circuit**
